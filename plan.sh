@@ -1,5 +1,5 @@
-pkg_name=gcc
-pkg_distname=$pkg_name
+pkg_name=gcc494
+pkg_distname=gcc
 pkg_origin=core
 pkg_version=4.9.4
 pkg_description="The GNU Compiler Collection"
