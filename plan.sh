@@ -60,7 +60,7 @@ do_prepare() {
   # for libraries
   #
   # Thanks to: https://github.com/NixOS/nixpkgs/blob/release-15.09/pkgs/development/compilers/gcc/no-sys-dirs.patch
-  patch -p1 < "$PLAN_CONTEXT/no-sys-dirs.patch"
+  # patch -p1 < "$PLAN_CONTEXT/no-sys-dirs.patch"
 
   # Patch the configure script so it finds glibc headers
   #
