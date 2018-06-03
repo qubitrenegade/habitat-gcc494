@@ -1,6 +1,6 @@
 pkg_name=gcc494
 pkg_distname=gcc
-pkg_origin=core
+pkg_origin=qubitrenegade
 pkg_version=4.9.4
 pkg_description="The GNU Compiler Collection"
 pkg_upstream_url="https://gcc.gnu.org/"
